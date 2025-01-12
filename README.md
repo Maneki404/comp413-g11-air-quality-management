@@ -93,3 +93,7 @@ export { db, auth };
 - Breadboard (optional)
 
 This setup will allow you to monitor air quality and environmental conditions in real-time, with data visualization available through the React Native application.
+
+### Demo & Poster Link
+
+https://drive.google.com/drive/folders/1n1B6MGXv0L9wV3ctgch74ctgy2E3V5pq?usp=sharing

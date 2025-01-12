@@ -1,0 +1,47 @@
+# Ignore all log files
+*.log
+
+# Config File
+air_quality/config.h
+
+# Firebase Config File 
+air_quality_mobile/firebase.js
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+air_quality_mobile/node_modules/
+
+# Expo
+air_quality_mobile/.expo/
+air_quality_mobile/dist/
+air_quality_mobile/web-build/
+air_quality_mobile/expo-env.d.ts
+
+# Native
+air_quality_mobile/*.orig.*
+air_quality_mobile/*.jks
+air_quality_mobile/*.p8
+air_quality_mobile/*.p12
+air_quality_mobile/*.key
+air_quality_mobile/*.mobileprovision
+
+# Metro
+air_quality_mobile/.metro-health-check*
+
+# debug
+air_quality_mobile/npm-debug.*
+air_quality_mobile/yarn-debug.*
+air_quality_mobile/yarn-error.*
+
+# macOS
+air_quality_mobile/.DS_Store
+air_quality_mobile/*.pem
+
+# local env files
+air_quality_mobile/.env*.local
+
+# typescript
+air_quality_mobile/*.tsbuildinfo
+
+air_quality_mobile/app-example
